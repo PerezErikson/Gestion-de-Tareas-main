@@ -56,8 +56,9 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
    
 **Inicia el servidor de desarrollo. Esto compila el proyecto y lo sirve en un entorno de desarrollo local, generalmente accesible en http://localhost:3000. El servidor también observa los cambios en el código fuente y actualiza la aplicación en el navegador en tiempo real.**
 ## Video de Demostración
+## https://drive.google.com/drive/folders/1Y5LNNY8huHS2ZH2IhEZL3KDZ-ncgaV5N?usp=sharing
 
- <source src="./img/video/12.mp4" type="video/mp4">
+ 
 
 </video>
 
