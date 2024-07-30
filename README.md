@@ -55,14 +55,14 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
     **npm run dev**
    
 **Inicia el servidor de desarrollo. Esto compila el proyecto y lo sirve en un entorno de desarrollo local, generalmente accesible en http://localhost:3000. El servidor también observa los cambios en el código fuente y actualiza la aplicación en el navegador en tiempo real.**
+## Video de Demostración
+
+<video width="640" height="480" controls>
+  <source src="./img/video/12.mp4" type="12.mp4">
+</video>
 
 ![Descripción de la imagen](img/1.png)
 ![Descripción de la imagen](img/2.png)
 ![Descripción de la imagen](img/3.png)
 
 
-## Video de Demostración
-
-<video width="640" height="480" controls>
-  <source src="./img/video/12.mp4" type="12.mp4">
-</video>
